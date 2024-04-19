@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/-Social_media-001?style=flat-square&logo=spring&logoColor=green&labelColor=blue&color=blue)](https://github.com/thacbaonguyen/social-app-microservices)
 
 ### `Connect with me`
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thacbaonguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thacbaonguyen/" height="18.75" width="25" /></a>
 <a href="https://fb.com/https://www.facebook.com/thbaonguyen.25.11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thbaonguyen.25.11/" height="18.75" width="25" /></a>
 </p>
